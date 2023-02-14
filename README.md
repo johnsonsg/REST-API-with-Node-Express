@@ -24,7 +24,7 @@ Let’s go ahead and start building a REST API using Node.js and Express.js. We 
 
 ### STEP #2
 
-- Now create a directory on your computer and open it in your preferred code editor. Now create a package.json file inside this directory and copy-paste the following code there:
+- Now create a directory on your computer and open it in your preferred code editor. Now create a `package.json` file inside this directory and copy-paste the following code there:
 
 ```
 {
@@ -36,4 +36,31 @@ Let’s go ahead and start building a REST API using Node.js and Express.js. We 
 	"author": "",
 	"license": "ISC"
 }
+
+or you can do: `npm init `
+
 ```
+
+You can write your name as a value to the `name` key.
+
+We need to install Express.js in this project. For this, open your terminal inside this directory and run the following command:
+
+```
+npm install express
+yarn add express
+
+```
+
+You can run your Node.js server via the `node` command, but the drawback is that you would have to restart the server whenever there is a change in the server files. What we can do is use `nodemon` instead. It will run the server without the previously mentioned drawback.
+
+```
+npm install -D nodemon
+yarn add -D nodemon
+
+```
+
+I am installing `nodemon` as a developer dependency because your server code will not depend on it.
+
+Once done, update your `package.json` file to add the `script `key. It will take an object as its value. Inside the object, you will define the commands and what they do. Add the `server` key in this object with the value nodemon index.js.
+
+Here is an updated `package.json` file that you can refer to just in case:
