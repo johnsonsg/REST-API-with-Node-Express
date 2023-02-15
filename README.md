@@ -285,10 +285,6 @@ This was a brief introduction to handling CORS in your server. I hope you now kn
 
 ## Reference
 
-```
-[How to build a REST API using Node.js and Express.js in 6 minutes?]
+[How to build a REST API using Node.js and Express.js in 6 minutes?](https://rapidapi.com/guides/build-rest-api?utm_source=google&utm_medium=cpc&utm_campaign=DSA&utm_term=_&gclid=CjwKCAiA_6yfBhBNEiwAkmXy51VGSS8GNU8nLlAFWV_sZoQpXSMiP47Cu93IC_fxy9wsz1XjxYTTKRoCXxwQAvD_BwE#nodejs-and-expressjs 'Rapid API Guides')
 
-
-<https://rapidapi.com/guides/build-rest-api?utm_source=google&utm_medium=cpc&utm_campaign=DSA&utm_term=_&gclid=CjwKCAiA_6yfBhBNEiwAkmXy51VGSS8GNU8nLlAFWV_sZoQpXSMiP47Cu93IC_fxy9wsz1XjxYTTKRoCXxwQAvD_BwE#nodejs-and-expressjs>
-
-```
+[How to handle CORS in Express?](https://rapidapi.com/guides/handle-cors-express 'Rapid API Guides')
