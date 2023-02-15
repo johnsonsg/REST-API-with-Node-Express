@@ -282,3 +282,10 @@ The backend will only be accessible by the origin URL defined in the corsOptions
 ## Wrap Up
 
 This was a brief introduction to handling CORS in your server. I hope you now know why your cross-origin requests fail and how to fix them.
+
+## Reference
+
+```
+[How to build a REST API using Node.js and Express.js in 6 minutes?](https://rapidapi.com/guides/build-rest-api?utm_source=google&utm_medium=cpc&utm_campaign=DSA&utm_term=_&gclid=CjwKCAiA_6yfBhBNEiwAkmXy51VGSS8GNU8nLlAFWV_sZoQpXSMiP47Cu93IC_fxy9wsz1XjxYTTKRoCXxwQAvD_BwE#nodejs-and-expressjs)
+
+```
